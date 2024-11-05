@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isohiafo.github.io/GTq/sitemap_index.txt
+Sitemap: https://isohiafo.github.io/MlG/sitemap_index.txt
+Sitemap: https://isohiafo.github.io/Mue/sitemap_index.txt
+Sitemap: https://isohiafo.github.io/STO/sitemap_index.txt
